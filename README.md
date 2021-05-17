@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Suwasni
+- 👀 I’m interested in Testing and Test Automation in specific, agile way of working, exploring the corners of round earth
+- 🌱 I’m currently learning API test automation using rest assured
+- 💞️ I’m looking to collaborate on exploring test automation tools/frameworks, defining test strategies
+- 📫 Reach me via linkedin www.linkedin.com/in/suwasni-ranjan-69105ba8 
